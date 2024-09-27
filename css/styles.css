@@ -3772,7 +3772,7 @@ textarea.form-control-lg {
   padding-bottom: var(--bs-navbar-brand-padding-y);
   margin-right: var(--bs-navbar-brand-margin-end);
   font-size: var(--bs-navbar-brand-font-size);
-  color:#000506
+  color:#ffffff
   text-decoration: none;
   white-space: nowrap;
 }
@@ -8128,7 +8128,7 @@ textarea.form-control-lg {
 
 .bg-primary {
   --bs-bg-opacity: 1;
-  background-color: rgb(245 245 245) !important;
+  background-color:#000 !important;
 }
 
 .bg-secondary {
